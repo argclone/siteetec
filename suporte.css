@@ -1,0 +1,19 @@
+body {
+	background-image: url("imagens/etec.png");
+	background-color:  #fff6d8;
+	
+	
+ }
+
+h1 {color: #906718;;}
+
+
+
+.quadrado0 { background-color: #d4b00;;
+	border-radius: 5px;
+	text-align: center;
+	padding: 5px;
+	margin: 35px 25px;
+	
+	
+}
